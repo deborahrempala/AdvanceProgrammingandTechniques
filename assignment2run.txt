@@ -1,0 +1,142 @@
+Bookstore Menu
+Select from the following:
+V) View all Books
+A) Add a new Book
+D) Delete a Book
+U) Update a book price and quantity
+Q) Quit the program
+Choice?A
+Enter The ISBN Number: 123456789
+Enter The Title:
+Dogs
+Enter The Author:
+Sarah Burnham
+Enter The Year It Was Published:
+2009
+Enter the Quanity:
+4
+Enter the Price:
+10.00
+Bookstore Menu
+Select from the following:
+V) View all Books
+A) Add a new Book
+D) Delete a Book
+U) Update a book price and quantity
+Q) Quit the program
+Choice?V
+Data For All Books
+
+
+
+ISBN:9940489
+Title:Frogs
+AuthorMichelle Kane
+Year:2012
+Quanity:3
+Price:4.99
+
+ISBN:2165006
+Title:horses
+AuthorJess Appledorn
+Year:4
+Quanity:5
+Price:0.99
+
+ISBN:843479593287
+Title:Sleep
+AuthorDeborah Rempala
+Year:2013
+Quanity:3
+Price:4.99
+
+
+
+ISBN:2165006
+Title:horses
+AuthorJess Appledorn
+Year:4
+Quanity:5
+Price:0.99
+
+ISBN:843479593287
+Title:Sleep
+AuthorDeborah Rempala
+Year:2013
+Quanity:3
+Price:4.99
+
+ISBN:9940489
+Title:Frogs
+AuthorMichelle Kane
+Year:2012
+Quanity:3
+Price:4.99
+
+ISBN:2165006
+Title:horses
+AuthorJess Appledorn
+Year:4
+Quanity:5
+Price:0.99
+
+ISBN:843479593287
+Title:Sleep
+AuthorDeborah Rempala
+Year:2013
+Quanity:3
+Price:4.99
+
+
+ISBN:123456789
+Title:Dogs
+AuthorSarah Burnham
+Year:2009
+Quanity:4
+Price:10
+
+Bookstore Menu
+Select from the following:
+V) View all Books
+A) Add a new Book
+D) Delete a Book
+U) Update a book price and quantity
+Q) Quit the program
+Choice?D
+Enter The ISBN Number:
+456789943
+That number was not found
+Bookstore Menu
+Select from the following:
+V) View all Books
+A) Add a new Book
+D) Delete a Book
+U) Update a book price and quantity
+Q) Quit the program
+Choice?D
+Enter The ISBN Number:
+123456789
+That book was eliminated
+Bookstore Menu
+Select from the following:
+V) View all Books
+A) Add a new Book
+D) Delete a Book
+U) Update a book price and quantity
+Q) Quit the program
+Choice?U
+Enter The ISBN Number:
+2165006
+Enter The Quanity:
+5
+Enter the Price:
+70.00
+Bookstore Menu
+Select from the following:
+V) View all Books
+A) Add a new Book
+D) Delete a Book
+U) Update a book price and quantity
+Q) Quit the program
+Choice?Q
+Press any key to continue . . .

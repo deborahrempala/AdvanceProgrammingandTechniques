@@ -1,0 +1,29 @@
+Sample run 1:
+How many stores would you like to enter data for? 4
+Enter the store data for store # 1:1000
+Enter the store data for store # 2:300
+Enter the store data for store # 3:600
+Enter the store data for store # 4:800
+////////////////////////////////////
+Sales Bar Graph
+(Each * = $100)
+The data for store 1:**********
+The data for store 2:***
+The data for store 3:******
+The data for store 4:********
+Press any key to continue . . .
+
+
+
+Sample run 2:
+How many stores would you like to enter data for? 3
+Enter the store data for store # 1:200
+Enter the store data for store # 2:500
+Enter the store data for store # 3:700
+////////////////////////////////////
+Sales Bar Graph
+(Each * = $100)
+The data for store 1:**
+The data for store 2:*****
+The data for store 3:*******
+Press any key to continue . . .
